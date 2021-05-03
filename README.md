@@ -4,4 +4,4 @@
 
 Microprocesor Lab Assignment for 6th semester Computer Engineering
 
-## ZHCET,AMU,Aligah
+## ZHCET,AMU,Aligarh
